@@ -1,4 +1,4 @@
-# Awesome React Native UI Components
+# React Native UI Components
 
 ## UI Kits
 
